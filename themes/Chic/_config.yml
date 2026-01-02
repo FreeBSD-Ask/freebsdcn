@@ -15,7 +15,17 @@ favicon: /favicon.ico
 nickname: FreeBSD 中文社区（CFC）
 
 ### this variable is MarkDown form.
-description: FreeBSD 是真正自由的操作系统，在这个大流变的世界中仍然坚守 BSD UNIX 哲学。<br>恪守古老的法则，追寻真正的自由。<br><br>加入我们，共同推进 FreeBSD 之中国化与亚洲化。FreeBSD 绝不大败亡！！<br> QQ 群 787969044 <br>社区协作 https://book.bsdcn.org<br><br>
+description: 
+
+🎉 欢迎来到 BSD 的世界！
+
+FreeBSD 是真正自由（Liberty）的 操作系统，在这波谲云诡的世界中仍然坚守 BSD UNIX 哲学——恪守古老的法则，追寻真正的自由。
+
+QQ 群 787969044
+
+社区协作 https://book.bsdcn.org
+
+
 avatar: /image/avatar.jpg
 
 # main menu navigation
