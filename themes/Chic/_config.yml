@@ -46,10 +46,10 @@ links:
   # Instagram:
   # Reddit:
   # YouTube:
-  # QQ:
+  # QQ: 
   # Weibo:
   # WeChat:
-  # Github: https://github.com/Siricee
+  Github: https://github.com/FreeBSD-Ask
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -68,9 +68,9 @@ post_copyright_enable: true
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
 post_copyright_license_enable: true
-post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
+post_copyright_license_text: Copyright (c) 2018-2026 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: QQ 验证群 787969044
+post_copyright_slogan_text: QQ 群 787969044
 ## toc
 post_toc_enable: true
 
