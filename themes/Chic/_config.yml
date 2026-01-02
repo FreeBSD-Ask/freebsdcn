@@ -23,7 +23,7 @@ avatar: /image/avatar.jpg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  # Blog: /archives
   # Category:
   # Tags: 
   # Link:
@@ -46,13 +46,13 @@ links:
   # Instagram:
   # Reddit:
   # YouTube:
-  # QQ: 
+  QQ: https://qm.qq.com/q/cX5mpJ36gg
   # Weibo:
   # WeChat:
   Github: https://github.com/FreeBSD-Ask
 
 # how links show: you have 2 choice--text or icon.
-links_text_enable: false
+links_text_enable: true
 links_icon_enable: true
 
 # Post page
